@@ -1,0 +1,10 @@
+Execution on Goole Colab: 
+- The notebook "Foodvisor_coding_assignment.ipynb" can be directly used via Google Colab. Make sure to insert the files from release: expected_status.json, graph_build.json, graph_edits.json img_extract.json in MyDrive directory
+
+
+
+Local execution:
+1) install the module anytree with the command sudo pip install anytree
+
+2) launch the file main.py
+
